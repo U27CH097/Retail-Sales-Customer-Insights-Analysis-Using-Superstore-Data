@@ -51,5 +51,25 @@ Excel	KPIs, Dashboards, Pivots
 Power BI	Interactive Reporting & Visuals
 SQL (PostgreSQL)	Business Problem Solving
 
+<img width="1920" height="1080" alt="Screenshot 2025-07-06 150602" src="https://github.com/user-attachments/assets/1c0e52db-8fb9-4f8a-8eae-e52e110378dd" />
+
+
+<img width="1920" height="1080" alt="Screenshot 2025-07-06 150546" src="https://github.com/user-attachments/assets/d1417a37-69b4-4817-8ad6-ff5fca683f67" />
+
+
+
+<img width="1920" height="1080" alt="Screenshot 2025-07-07 110121" src="https://github.com/user-attachments/assets/ad4b5c6e-8bc2-4417-9697-cc6e627071b9" />
+
+
+<img width="1920" height="1080" alt="Screenshot 2025-07-08 111554" src="https://github.com/user-attachments/assets/050da9b1-4085-4687-940a-d3e357795bf7" />
+
+<img width="1920" height="1080" alt="Screenshot 2025-07-08 111523" src="https://github.com/user-attachments/assets/6fec10b9-b719-4e84-94c0-0568c1a8e684" />
+
+
+
+
+
+
+
 
 
